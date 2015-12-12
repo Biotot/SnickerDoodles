@@ -88,4 +88,9 @@
       <Filter>Resource Files</Filter>
     </Image>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\Tables\League of Legends.CT">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
 </Project>
