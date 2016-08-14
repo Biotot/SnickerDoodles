@@ -8,6 +8,7 @@ namespace SnickerDoodles
 	{
 	public:
 
+
 		static LeagueMiner *m_DataMiner;
 		static PainterBase *m_ScreenPainter;
 
